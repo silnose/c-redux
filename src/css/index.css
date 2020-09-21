@@ -1,0 +1,37 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css");
+body {
+  margin: 0;
+  background-color: gainsboro;
+}
+.container {
+  margin: 50px;
+}
+table {
+  text-align: left;
+  width: 100%;
+}
+
+table td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+nav {
+  background-color: #253a46;
+  padding: 20px;
+  font-size: 20px;
+}
+
+nav a {
+  color: white;
+  padding-right: 50px;
+  text-decoration: none;
+}
+
+.is-selected {
+  font-weight: bold;
+}
+
+.center {
+  text-align: center !important;
+}
